@@ -27,3 +27,9 @@ body {
 .navbar-collapse {
   justify-content: flex-end;
 }
+.header {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
